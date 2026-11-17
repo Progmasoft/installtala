@@ -3,8 +3,7 @@
 
 # installtala
 
-installtala is the installer of TalaOS, run from the live ISO image. It is a terminal program, as Progmasoft provides
-no desktop environment for TalaOS.
+installtala is the installer of TalaOS, run from the live ISO image. It is a terminal program.
 
 It is written in C++17 under the
 [Progmasoft Core C++ Coding Guidelines](https://github.com/Progmasoft/progmasoft-cpp) and built with Bazel. It uses
